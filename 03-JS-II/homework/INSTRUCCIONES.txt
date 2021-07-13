@@ -1,0 +1,11 @@
+Instrucciones
+En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
+for
+&&, ||, !
+
+
+for: es un bucle, que ingresa al mismo, si la condición es verdadera, y sale del bucle si la condición es falsa; en cada vuelta incrementa su valor.
+||: Es un operador de descarte; si se cumple una condición u otra, retorna verdadero.
+&&: es un operador de adicion, se deben cumplir todas las condiciones, retorna verdadero.
+!: es una operador negador, si la condición es verdadera, la convierte en falsa, y viceversa.
+
