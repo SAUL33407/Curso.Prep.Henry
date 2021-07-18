@@ -1,0 +1,3 @@
+Arrays
+
+Son vectores donde se puede guardar elementos. En otras palabras, son como cajones, donde puedo almacenar datos, elegir ubicación, agregar al final, reemplazar.
